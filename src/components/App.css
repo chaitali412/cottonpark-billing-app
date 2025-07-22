@@ -1,0 +1,12 @@
+/* filepath: /d:/React projects/cottonpark-billing-app/src/components/App.css */
+.app-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.form-container {
+  background: #fdfdfd;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+}
